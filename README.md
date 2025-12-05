@@ -25,7 +25,5 @@ This project allows users to **add, update, delete, and toggle tasks** in a web 
 - **Bootstrap 5** (Frontend styling)  
 - **Maven** (Build tool)  
 
----
 
-## Project Structure
 
